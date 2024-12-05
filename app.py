@@ -1,5 +1,5 @@
 import cvzone
-from cvzone.FaceDetectionModule import FaceDetector
+from facedetectionmodule import FaceDetector
 import cv2
 
 # Initialize the webcam
